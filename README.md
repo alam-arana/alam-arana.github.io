@@ -25,7 +25,7 @@ Ingeniero con experiencia en mejora continua, Lean Manufacturing y optimización
 
 ## 📂 Proyectos
 
-### 🛒 Instacart – Exploratory Data Analysis
+### 🛒 [Instacart – Exploratory Data Analysis](https://github.com/alam-arana/instacart-eda)
 Análisis de hábitos de compra, limpieza y preprocesamiento de datos de pedidos, productos y clientes. Identificación de patrones de consumo y frecuencia de reorden.
 
 ### 🎬 Netflix Dataset – Exploratory Data Analysis
