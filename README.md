@@ -25,15 +25,15 @@ Ingeniero con experiencia en mejora continua, Lean Manufacturing y optimización
 
 ## 📂 Proyectos
 
-### 🛒 [Instacart – Exploratory Data Analysis](https://github.com/alam-arana/instacart-eda)
+### 🛒 [Instacart – Exploratory Data Analysis](https://github.com/alam-arana/instacart-customer-behavior-analysis)
 Análisis de hábitos de compra, limpieza y preprocesamiento de datos de pedidos, productos y clientes. Identificación de patrones de consumo y frecuencia de reorden.
 
-### 🎬 Netflix Dataset – Exploratory Data Analysis
+### 🛒 [Megaline - Revenue Analysis](https://github.com/alam-arana/megaline-revenue-analysis)
 Análisis de tendencias por género, ratings y duración de contenido. Limpieza y transformación de datos para detección de patrones relevantes.
 
 ---
 
 ## 📬 Contacto
 
-LinkedIn: https://www.linkedin.com/in/alam-arana-wilson-79815a324/
-GitHub: https://github.com/Mictlam
+- [LinkedIn](https://www.linkedin.com/in/alam-arana-wilson-79815a324/)
+- [GitHub](https://github.com/alam-arana)
